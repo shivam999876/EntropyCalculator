@@ -1,0 +1,2 @@
+# EntropyCalculator
+Entropy Calculator
